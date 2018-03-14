@@ -2,6 +2,10 @@
 
 This repo is the result of a blog post at http://hashandsalt.com/blog/using-slate-engine-with-kirby
 
+made with ♥ by [Hash&Salt](https://www.hashandsalt.com)
+
+This repo contains a trial of Kirby CMS, which is not free.
+
 ## Trial
 
 You can try Kirby on your local machine or on a test
@@ -16,4 +20,7 @@ You can purchase your Kirby license at
 A Kirby license is valid for a single domain. You can find
 Kirby's license agreement here: <http://getkirby.com/license>
 
-made with ♥ by [Hash&Salt](https://www.hashandsalt.com)
+## Copyright
+
+© 2009-2016 Bastian Allgeier (Bastian Allgeier GmbH)
+<http://getkirby.com>
