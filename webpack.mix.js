@@ -2,9 +2,7 @@
 // slateengine.dev <http://slateengine.com | <hello@hashandsalt.com>
 // ======================================================================
 
-const {
-  mix
-} = require('laravel-mix')
+let mix = require('laravel-mix');
 const SpritesmithPlugin = require('webpack-spritesmith');
 const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
 
